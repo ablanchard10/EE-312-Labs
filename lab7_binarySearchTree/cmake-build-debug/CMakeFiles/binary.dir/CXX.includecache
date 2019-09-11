@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab7_binarySearchTree/BST312.h
+cstdlib
+-
+iostream
+-
+vector
+-
+stack
+-
+
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab7_binarySearchTree/main.cpp
+iostream
+-
+fstream
+-
+BST312.h
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab7_binarySearchTree/BST312.h
+
