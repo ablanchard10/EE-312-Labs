@@ -1,0 +1,8 @@
+plagiarism: cheater.o main.o
+	g++ -o plagiarismCatcher cheater.o main.o
+
+cheater.o: cheater.cpp
+	g++ -c cheater.cpp
+
+main.o: main.cpp
+	g++ -c main.cpp

@@ -1,0 +1,3 @@
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab8_cheaters/cmake-build-debug/CMakeFiles/lab8_cheaters.dir
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab8_cheaters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Austin/Desktop/SCHOOL STUFF/Sophomore Spring/EE 312/lab8_cheaters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
