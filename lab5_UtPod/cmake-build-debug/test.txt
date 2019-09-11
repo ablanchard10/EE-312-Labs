@@ -1,0 +1,45 @@
+add
+Beatles
+Hey Jude
+4
+show
+remove
+Beatles
+Hey Jude
+4
+show
+add
+Beatles
+Hey Jude
+4
+add
+Lil Nas X
+Old town road
+6
+add
+Cardi B
+Money
+100
+add
+Amine
+TOGETHER
+100
+add
+Post Malone
+Congradulations
+12
+show
+shuffle
+show
+sort
+show
+add
+Mo Bamba
+Sheck Wes
+69
+sort
+show
+remaining
+clear
+remaining
+show
